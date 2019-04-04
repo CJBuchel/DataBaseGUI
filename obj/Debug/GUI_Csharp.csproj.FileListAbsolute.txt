@@ -1,0 +1,17 @@
+D:\Users\Conno\Documents\School\ComputerScience\DataBases\April_Asignment\GUI_Csharp\bin\Debug\GUI_Csharp.exe.config
+D:\Users\Conno\Documents\School\ComputerScience\DataBases\April_Asignment\GUI_Csharp\bin\Debug\GUI_Csharp.exe
+D:\Users\Conno\Documents\School\ComputerScience\DataBases\April_Asignment\GUI_Csharp\bin\Debug\GUI_Csharp.pdb
+D:\Users\Conno\Documents\School\ComputerScience\DataBases\April_Asignment\GUI_Csharp\obj\Debug\GUI_Csharp.csprojAssemblyReference.cache
+D:\Users\Conno\Documents\School\ComputerScience\DataBases\April_Asignment\GUI_Csharp\obj\Debug\GUI_Csharp.Form1.resources
+D:\Users\Conno\Documents\School\ComputerScience\DataBases\April_Asignment\GUI_Csharp\obj\Debug\GUI_Csharp.Properties.Resources.resources
+D:\Users\Conno\Documents\School\ComputerScience\DataBases\April_Asignment\GUI_Csharp\obj\Debug\GUI_Csharp.csproj.GenerateResource.cache
+D:\Users\Conno\Documents\School\ComputerScience\DataBases\April_Asignment\GUI_Csharp\obj\Debug\GUI_Csharp.csproj.CoreCompileInputs.cache
+D:\Users\Conno\Documents\School\ComputerScience\DataBases\April_Asignment\GUI_Csharp\obj\Debug\GUI_Csharp.exe
+D:\Users\Conno\Documents\School\ComputerScience\DataBases\April_Asignment\GUI_Csharp\obj\Debug\GUI_Csharp.pdb
+D:\Users\Conno\Documents\School\ComputerScience\DataBases\April_Asignment\GUI_Csharp\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Users\Conno\Documents\School\ComputerScience\DataBases\April_Asignment\GUI_Csharp\obj\Debug\GUI_Csharp.csproj.CopyComplete
+D:\Users\Conno\Documents\School\ComputerScience\DataBases\April_Asignment\GUI_Csharp\bin\Debug\MySql.Data.dll
+D:\Users\Conno\Documents\School\ComputerScience\DataBases\April_Asignment\GUI_Csharp\bin\Debug\Google.Protobuf.dll
+D:\Users\Conno\Documents\School\ComputerScience\DataBases\April_Asignment\GUI_Csharp\bin\Debug\MySql.Data.xml
+D:\Users\Conno\Documents\School\ComputerScience\DataBases\April_Asignment\GUI_Csharp\obj\Debug\GUI_Csharp.main.resources
+D:\Users\Conno\Documents\School\ComputerScience\DataBases\April_Asignment\GUI_Csharp\obj\Debug\GUI_Csharp.Form2.resources

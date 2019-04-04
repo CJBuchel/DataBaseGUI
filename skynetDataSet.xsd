@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="skynetDataSet" targetNamespace="http://tempuri.org/skynetDataSet.xsd" xmlns:mstns="http://tempuri.org/skynetDataSet.xsd" xmlns="http://tempuri.org/skynetDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="skynetConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="skynetConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.GUI_Csharp.Properties.Settings.GlobalReference.Default.skynetConnectionString" Provider="MySql.Data.MySqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="schoolimportTableAdapter" GeneratorDataComponentClassName="schoolimportTableAdapter" Name="schoolimport" UserDataComponentName="schoolimportTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="skynetConnectionString (Settings)" DbObjectName="skynet.schoolimport" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT `TeacherCode`, `TeacherTitle`, `TeacherSurname`, `SubjectCode`, `SubjectName`, `StudentNumber`, `StudentFirstName`, `StudentSurname`, `StudentYear`, `ParentNumber`, `ParentFirstName`, `ParentSurname`, `ParentEmail` FROM `schoolimport`</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings />
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="skynetDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="skynetDataSet" msprop:Generator_UserDSName="skynetDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="schoolimport" msprop:Generator_TableClassName="schoolimportDataTable" msprop:Generator_TableVarName="tableschoolimport" msprop:Generator_TablePropName="schoolimport" msprop:Generator_RowDeletingName="schoolimportRowDeleting" msprop:Generator_RowChangingName="schoolimportRowChanging" msprop:Generator_RowEvHandlerName="schoolimportRowChangeEventHandler" msprop:Generator_RowDeletedName="schoolimportRowDeleted" msprop:Generator_UserTableName="schoolimport" msprop:Generator_RowChangedName="schoolimportRowChanged" msprop:Generator_RowEvArgName="schoolimportRowChangeEvent" msprop:Generator_RowClassName="schoolimportRow">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
